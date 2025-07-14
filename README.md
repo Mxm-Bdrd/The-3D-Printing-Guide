@@ -1,3 +1,6 @@
+https://ellis3dp.com/Print-Tuning-Guide/
+https://github.com/dougbrion/3d-printing-guide/tree/master?tab=readme-ov-file
+
 # The-3D-Printing-Guide
 
 ## Contents
